@@ -16,6 +16,8 @@
     height: 250px;
     width: 100%;
     overflow: hidden;
+    text-decoration: none;
+    color: #000;
 }
 .element-article img { 
     width: 40%;   
